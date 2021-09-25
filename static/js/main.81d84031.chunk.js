@@ -1,2 +1,0 @@
-(this["webpackJsonpbreloom.xyz"]=this["webpackJsonpbreloom.xyz"]||[]).push([[0],{9:function(e,r,t){"use strict";t.r(r);var n=t(0),s=t.n(n),c=t(3),o=t.n(c),i=t(1);var p=function(){return Object(i.jsx)("div",{className:"App",children:"super in progress"})};o.a.render(Object(i.jsx)(s.a.StrictMode,{children:Object(i.jsx)(p,{})}),document.getElementById("root"))}},[[9,1,2]]]);
-//# sourceMappingURL=main.81d84031.chunk.js.map
