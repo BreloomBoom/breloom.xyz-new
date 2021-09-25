@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,QACI,cAAe,CACf,OAAQ,CACR,QAAS,CACT,cAAe,CACf,eACJ","file":"main.20dc30c5.chunk.css","sourcesContent":["#homebg {\n    position: fixed;\n    right: 0;\n    bottom: 0;\n    min-width: 100%;\n    min-height: 100%;\n}"]}
