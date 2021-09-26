@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.642b6951.chunk.css",
-    "main.js": "/static/js/main.758a2772.chunk.js",
-    "main.js.map": "/static/js/main.758a2772.chunk.js.map",
+    "main.css": "/static/css/main.c74e3dc0.chunk.css",
+    "main.js": "/static/js/main.05e2b95a.chunk.js",
+    "main.js.map": "/static/js/main.05e2b95a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.44166f50.js",
     "runtime-main.js.map": "/static/js/runtime-main.44166f50.js.map",
     "static/js/2.35ba8e9e.chunk.js": "/static/js/2.35ba8e9e.chunk.js",
     "static/js/2.35ba8e9e.chunk.js.map": "/static/js/2.35ba8e9e.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.642b6951.chunk.css.map": "/static/css/main.642b6951.chunk.css.map",
+    "static/css/main.c74e3dc0.chunk.css.map": "/static/css/main.c74e3dc0.chunk.css.map",
     "static/js/2.35ba8e9e.chunk.js.LICENSE.txt": "/static/js/2.35ba8e9e.chunk.js.LICENSE.txt",
     "static/media/breloom.9d910d6a.png": "/static/media/breloom.9d910d6a.png",
-    "static/media/github.5994b25b.png": "/static/media/github.5994b25b.png",
+    "static/media/github.79217d9b.png": "/static/media/github.79217d9b.png",
     "static/media/homebg.45187349.mp4": "/static/media/homebg.45187349.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.44166f50.js",
     "static/js/2.35ba8e9e.chunk.js",
-    "static/css/main.642b6951.chunk.css",
-    "static/js/main.758a2772.chunk.js"
+    "static/css/main.c74e3dc0.chunk.css",
+    "static/js/main.05e2b95a.chunk.js"
   ]
 }
