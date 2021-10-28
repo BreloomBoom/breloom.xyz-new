@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.0af77d76.chunk.css",
-    "main.js": "/static/js/main.edffc771.chunk.js",
-    "main.js.map": "/static/js/main.edffc771.chunk.js.map",
+    "main.js": "/static/js/main.9fda200b.chunk.js",
+    "main.js.map": "/static/js/main.9fda200b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.44166f50.js",
     "runtime-main.js.map": "/static/js/runtime-main.44166f50.js.map",
-    "static/js/2.715c420e.chunk.js": "/static/js/2.715c420e.chunk.js",
-    "static/js/2.715c420e.chunk.js.map": "/static/js/2.715c420e.chunk.js.map",
+    "static/js/2.b550326c.chunk.js": "/static/js/2.b550326c.chunk.js",
+    "static/js/2.b550326c.chunk.js.map": "/static/js/2.b550326c.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.0af77d76.chunk.css.map": "/static/css/main.0af77d76.chunk.css.map",
-    "static/js/2.715c420e.chunk.js.LICENSE.txt": "/static/js/2.715c420e.chunk.js.LICENSE.txt",
+    "static/js/2.b550326c.chunk.js.LICENSE.txt": "/static/js/2.b550326c.chunk.js.LICENSE.txt",
     "static/media/breloom.9d910d6a.png": "/static/media/breloom.9d910d6a.png",
     "static/media/github.79217d9b.png": "/static/media/github.79217d9b.png",
     "static/media/homebg.a8e43ccc.mp4": "/static/media/homebg.a8e43ccc.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.44166f50.js",
-    "static/js/2.715c420e.chunk.js",
+    "static/js/2.b550326c.chunk.js",
     "static/css/main.0af77d76.chunk.css",
-    "static/js/main.edffc771.chunk.js"
+    "static/js/main.9fda200b.chunk.js"
   ]
 }
